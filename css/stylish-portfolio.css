@@ -151,13 +151,14 @@ body {
 
 @media screen and (max-width: 1000px) {
   .column {
-    width: 51%;
+    width: 75vw;
     margin: auto;
   }
 
   .columnimg {
-    width: 51%;
+    width: 75vw;
     margin: auto;
+    
   }
 
   .skill {
